@@ -1,9 +1,6 @@
+# MCU: Spider-Man Electronic Faceshell
 <img src="assets/peter-tingle.gif" alt="Peter Tingle" width="100%" height="auto" />
 
-# MCU: Spider-Man Electronic Faceshell
-
----
----
 
 # Introduction
 
