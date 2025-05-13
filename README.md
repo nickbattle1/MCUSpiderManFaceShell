@@ -4,7 +4,7 @@
 
 # Introduction
 
-This project brings to life the iconic MCU Spider-Man moving lenses faceshell using Arduino-based electronics and custom mechanical components. The faceshell features independently articulating lenses that react to facial movements, mimicking the expressive eyes from Marvel's Spider-Man suits. All shell components, lenses, gears, and mechanical rods were custom 3D printed, with white perforated vinyl used for the eye material to complete the authentic look.
+This project brings to life the iconic MCU Spider-Man moving lenses faceshell using Arduino-based electronics and custom mechanical components. The faceshell features independently articulating lenses with multi-layered shutters that react to facial movements, mimicking the expressive eyes from Marvel's Spider-Man suits. Each lens contains overlapping segments that create the authentic iris-like aperture effect seen in the films. All shell components, lenses, gears, and mechanical rods were custom 3D printed, with white perforated vinyl used for the eye material to complete the authentic look.
 
 ---
 
@@ -52,6 +52,8 @@ This project brings to life the iconic MCU Spider-Man moving lenses faceshell us
 
   - Custom-designed servo mounts precisely positioned within the shell
   - Mechanical linkage system with push/pull rods connecting servos to lenses
+  - Multi-layered shutter system for each lens, accurately replicating the intricate iris mechanism seen in the MCU films
+  - Overlapping lens segments that create the dynamic aperture effect identical to the movie version
   - Gear mechanisms for smooth lens articulation
   - Internal cable management system to maintain clean aesthetics
   - White perforated vinyl for the eye lenses providing visibility while maintaining the iconic look
