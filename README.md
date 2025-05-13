@@ -1,4 +1,4 @@
-![Peter Tingle](assets/peter-tingle.gif)
+<img src="assets/peter-tingle.gif" alt="Peter Tingle" width="100%" height="auto" />
 
 # MCU: Spider-Man Electronic Faceshell
 
@@ -132,4 +132,4 @@ The only thing left to do is install fabric mask between the faceshell and the l
 
 # Final Product
 
-![Working Demonstration](assets/video.gif) 
+<img src="assets/video.gif" alt="Working Demonstration" width="100%" height="auto" /> 
