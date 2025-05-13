@@ -7,7 +7,6 @@
 This project brings to life the iconic MCU Spider-Man moving lenses faceshell using Arduino-based electronics and custom mechanical components. The faceshell features independently articulating lenses that react to facial movements, mimicking the expressive eyes from Marvel's Spider-Man suits. All shell components, lenses, gears, and mechanical rods were custom 3D printed, with white perforated vinyl used for the eye material to complete the authentic look.
 
 ---
----
 
 # The Electronics
 
@@ -46,7 +45,6 @@ This project brings to life the iconic MCU Spider-Man moving lenses faceshell us
 - Interior padding and component isolation ensures safe operation and comfort
 
 ---
----
 
 # Hardware Design
 
@@ -60,7 +58,6 @@ This project brings to life the iconic MCU Spider-Man moving lenses faceshell us
 
 All mechanical components were 3D printed to fit within the confined space of the faceshell while allowing for smooth operation and easy maintenance. The IR sensors were strategically placed to detect cheek movements without impeding comfort.
 
----
 ---
 
 # The Arduino Code
@@ -87,7 +84,6 @@ The system uses state tracking to ensure smooth transitions and prevent rapid le
 - Built-in debounce logic ensures reliable sensor readings
 - Servo direction is tracked and alternated with each activation
 
----
 ---
 
 # Project Build Process
@@ -124,7 +120,6 @@ The system uses state tracking to ensure smooth transitions and prevent rapid le
 
 The only thing left to do is install fabric mask between the faceshell and the lenses!
 
----
 ---
 
 # Final Product
